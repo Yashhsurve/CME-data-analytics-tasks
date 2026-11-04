@@ -7,7 +7,7 @@ Analyse sample social media post data to find which posts and post types get the
 - `Task-1.xlsx`: workbook (Data, Summary, Findings sheets)
 - `sample_dataset.csv`: dataset (15 simulated posts)
 - `findings_report.pdf`: short findings report
-- `charts/`: chart screenshots
+- `Charts/`: chart screenshots
 
 ## Excel skills used
 MAX, INDEX/MATCH, COUNTIF, AVERAGEIF, SUMIF, absolute references, column charts
