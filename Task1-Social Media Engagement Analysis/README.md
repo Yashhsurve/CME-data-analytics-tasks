@@ -18,7 +18,7 @@ MAX, INDEX/MATCH, COUNTIF, AVERAGEIF, SUMIF, absolute references, column charts
 3. Polls drive comments (27% per like); Reels drive shares (8.9% per like).
 
 ## Charts
-![Total engagement by post](Task1-Social Media Engagement Analysis/Charts/chart1_total_engagement.png)
-![Average engagement by type](Task1-Social Media Engagement Analysis/Charts/chart2_avg_by_type.png)
+![Total engagement by post](/Charts/chart1_total_engagement.png)
+![Average engagement by type](/Charts/chart2_avg_by_type.png)
 
 *Data is simulated and only 15 posts, so results are indicative.*
